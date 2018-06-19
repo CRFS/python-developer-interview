@@ -1,0 +1,7 @@
+.DS_Store
+Thumbs.db
+*.pyc
+*.pyo
+__pycache__
+.vscode
+*.sqlite3
